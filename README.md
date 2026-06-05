@@ -27,3 +27,17 @@ Designed and implemented VLAN segmentation using Cisco Packet Tracer to separate
 ## Outcome
 
 Successfully implemented VLAN segmentation and verified communication between devices.
+
+## Screenshots
+
+### Topology
+![Topology](topology.png)
+
+### VLAN Configuration
+![VLAN](vlan-config.png)
+
+### Port Assignment
+![Ports](port-assignment.png)
+
+### Connectivity Test
+![Ping](ping-test.png)
